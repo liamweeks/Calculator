@@ -1,0 +1,2 @@
+rootProject.name='PhoneCalc'
+include ':app'
